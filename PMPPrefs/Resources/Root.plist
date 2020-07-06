@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+
+
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>pro.ikghd.pmp</string>
+			<key>key</key>
+			<string>pmp</string>
+			<key>label</key>
+			<string>PMP Enabled</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>© 2020 ‣iKarwan</string>
+		</dict>
+
+		<dict>
+			<key>action</key>
+			<string>twitter</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>twitter.png</string>
+			<key>label</key>
+			<string>Twitter(iKarwan)</string>
+		</dict>
+
+		<dict>
+			<key>action</key>
+			<string>ytkiller</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>ytkiller.png</string>
+			<key>label</key>
+			<string>YouTubeKiller</string>
+		</dict>
+
+		<dict>
+			<key>action</key>
+			<string>ictmiz1</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>ictmiz.png</string>
+			<key>label</key>
+			<string>iCTMiZ Pro</string>
+		</dict>
+
+
+	</array>
+	<key>title</key>
+	<string>PMP</string>
+</dict>
+</plist>

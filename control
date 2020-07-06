@@ -1,0 +1,9 @@
+Package: pro.ikghd.pmp
+Name: PMP
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: PMP Protect My Photos!
+Maintainer: iKG_HD <ikg_hd@bk.ru>
+Author: iKG_HD <ikg_hd@bk.ru>
+Section: Tweaks
