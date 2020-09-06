@@ -4,7 +4,7 @@
 
 Available here!
 
-https://ikghd.yourepo.com/pack/pmp
+https://apt.ikghd.me/pack/pmp
 
 to compile it simply run .
 
