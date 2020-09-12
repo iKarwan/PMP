@@ -4,7 +4,7 @@
 
 Available here!
 
-https://apt.ikghd.me/
+https://repo.ikghd.me/
 
 to compile it simply run .
 
