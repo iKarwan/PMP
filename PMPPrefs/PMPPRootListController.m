@@ -57,11 +57,11 @@
 
 
 - (void)ytkiller {
-    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://ikghd.yourepo.com/pack/youtubekiller"]];
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://repo.ikghd.me/depictions/?p=pro.ikghd.youtubekiller"]];
 }
 
 - (void)ictmiz1 {
-    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://ikghd.yourepo.com/pack/ictmiz1"]];
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmiz"]];
 }
 
 
