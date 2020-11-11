@@ -12,7 +12,7 @@ PMP_FILES = Tweak.x
 PMP_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
-//after-install::
-//	install.exec "sbreload"
+#after-install::
+#	install.exec "sbreload"
 SUBPROJECTS += PMPPrefs
 include $(THEOS_MAKE_PATH)/aggregate.mk
