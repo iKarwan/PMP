@@ -8,8 +8,8 @@ INSTALL_TARGET_PROCESSES =  MobileSlideShow Preferences
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = PMP
-PMP_FILES = Tweak.x
-PMP_CFLAGS = -fobjc-arc
+$(TWEAK_NAME)_FILES = Tweak.x
+$(TWEAK_NAME)_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 #after-install::
